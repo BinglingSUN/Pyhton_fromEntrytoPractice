@@ -33,6 +33,8 @@
 
   PyCharm 安装地址：[http://www.runoob.com/w3cnote/pycharm-windows-install.html](https://www.runoob.com/w3cnote/pycharm-windows-install.html)
 
+
+
 ## 第2章  变量和简单数据类型
 
 ### 2.1 变量
